@@ -3,6 +3,6 @@ You can calculate your monthly payment, annualy payment, also you can calculate 
 
 If you find any problem or you have any suggestion, then please suggest me.
 
-Any help would be appriciate.
+Any help would be appriciated.
 
 Thank you.
